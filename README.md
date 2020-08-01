@@ -10,4 +10,5 @@ Follow me :smiley:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-lumertz-a50126181/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-lumertz-a50126181/)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovitorleffa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
