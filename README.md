@@ -3,7 +3,7 @@
 <!--
 **joaovitorleffa/joaovitorleffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is João Vitor, I live in Torres, in Rio Grande do Sul. I am a mobile developer at [Ubistart] (https://ubistart.com/?ln), working with React Native. Currently, I am venturing into the world of TypeScript and I intend to become an expert in this technology :sunglasses:. My first contact with programming took place at the beginning of my graduation :mortar_board:, in 2018 at [ULBRA] (https://www.ulbra.br/torres), where I learned languages like Java and C.
+My name is João Vitor, I live in Torres, in Rio Grande do Sul. I am a mobile developer at [Ubistart](https://ubistart.com/?ln), working with React Native. Currently, I am venturing into the world of TypeScript and I intend to become an expert in this technology :sunglasses:. My first contact with programming took place at the beginning of my graduation :mortar_board:, in 2018 at [ULBRA](https://www.ulbra.br/torres), where I learned languages like Java and C.
 My favorite hobbies are watching anime, playing lol :video_game: and listening to podcasts :headphones:.
 
 ### Olá 👋
